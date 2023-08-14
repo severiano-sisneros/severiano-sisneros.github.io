@@ -7,8 +7,14 @@ paginate = 3
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    pageRef = "/about"
-    weight = 10
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        pageRef = "/about"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "videos"
+        name = "Videos"
+        pageRef = "/videos"
+        weight = 10

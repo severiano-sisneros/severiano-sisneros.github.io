@@ -16,5 +16,14 @@
 Before helping to build web3, I was a senior prinicipal anti-tamper systems engineer at Northrop Grumman Corp.</description>
     </item>
     
+    <item>
+      <title>Videos</title>
+      <link>/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/videos/</guid>
+      <description>Devcon VI - A SNARKs Tale </description>
+    </item>
+    
   </channel>
 </rss>
