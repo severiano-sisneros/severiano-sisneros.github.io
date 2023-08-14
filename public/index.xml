@@ -1,28 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Severiano Sisneros</title>
-    <link>/</link>
-    <description>Recent content on Severiano Sisneros</description>
+    <title>Severiano Sisneros&#39; Blog</title>
+    <link>website/</link>
+    <description>Recent content on Severiano Sisneros&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 19:57:58 -0700</lastBuildDate><atom:link href="website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>ZkOps: The Future of Zero Knowledge Deployment Tools Panel by Aaron Greenblatt</title>
+      <link>website/posts/videos/zkops-the-future-of-zero-knowledge-deployment-tools-panel-by-aaron-greenblatt/</link>
+      <pubDate>Sun, 13 Aug 2023 19:57:58 -0700</pubDate>
       
-      <guid>/about/</guid>
-      <description>I am currently a cryptographer at Semiotic Labs primarily working as a core dev. on The Graph protocol and am very excited about the new interactions unlocked by web3. I am interested in all things cryptography, from theory to practice: zkSNARKs, fhe, mpc, pqc, &amp;hellip; side-channel attacks. I can do some math (but don&amp;rsquo;t consider myself a mathematician) and can do some coding and can play around with hardware.
-Before helping to build web3, I was a senior prinicipal anti-tamper systems engineer at Northrop Grumman Corp.</description>
+      <guid>website/posts/videos/zkops-the-future-of-zero-knowledge-deployment-tools-panel-by-aaron-greenblatt/</guid>
+      <description>This was a panel I participated in at ETHDenver 2023, chaired by Aaron Greenblatt of Ironmill.
+&amp;ldquo;There is great excitement surrounding the potential applications for newly-introduced zero knowledge (zk) proof systems. However, today, there are barriers to mass adoption of zk verifiable computing: zk proof generation involves many end-user mathematical choices; is computationally intense, and; leverages a wide array of software languages and libraries. Accordingly, widespread adoption of zk will require additional practical, operational infrastructure.</description>
     </item>
     
     <item>
-      <title>Videos</title>
-      <link>/videos/</link>
+      <title>Devcon VI: A SNARKs Tale</title>
+      <link>website/posts/videos/devcon-vi-a-snarks-tale/</link>
+      <pubDate>Sun, 13 Aug 2023 19:45:46 -0700</pubDate>
+      
+      <guid>website/posts/videos/devcon-vi-a-snarks-tale/</guid>
+      <description>This talk was a high level, light on technical detail, description of some our research into various SNARK constructions while designing and building a high-throughput one-way payment channel solution to enable query payments for indexers in The Graph protocol. We looked at several cutting edge SNARKs and also Homomorphic Signatures. In the end, all the verification for all these methods where too high to justify, we ended up engineering a much simpler (cryptographically) system using only standard ECC.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/videos/</guid>
-      <description>Devcon VI - A SNARKs Tale </description>
+      <guid>website/about/</guid>
+      <description>I am currently a cryptographer at Semiotic Labs primarily working as a core dev. on The Graph protocol and am very excited about the new interactions unlocked by web3. I am interested in all things cryptography, from theory to practice: zkSNARKs, fhe, mpc, pqc, &amp;hellip; side-channel attacks. I can do some math (but don&amp;rsquo;t consider myself a mathematician) and can do some coding and can play around with hardware.
+Before helping to build web3, I was a senior prinicipal anti-tamper systems engineer at Northrop Grumman Corp.</description>
     </item>
     
   </channel>

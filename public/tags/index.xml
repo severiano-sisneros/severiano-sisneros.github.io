@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Severiano Sisneros</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Severiano Sisneros</description>
+    <title>Tags on Severiano Sisneros&#39; Blog</title>
+    <link>website/tags/</link>
+    <description>Recent content in Tags on Severiano Sisneros&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 19:57:58 -0700</lastBuildDate><atom:link href="website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video</title>
+      <link>website/tags/video/</link>
+      <pubDate>Sun, 13 Aug 2023 19:57:58 -0700</pubDate>
+      
+      <guid>website/tags/video/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

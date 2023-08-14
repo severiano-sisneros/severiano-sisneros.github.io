@@ -1,20 +1,40 @@
-#baseURL = '/'
+baseURL = "website/"
 relativeURLs = true
 languageCode = 'en-us'
-title = 'Severiano Sisneros'
-theme = 'holy'
+title = "Severiano Sisneros' Blog"
+theme = 'archie'
 paginate = 3
+enableEmoji = true
+
 
 [menu]
-
     [[menu.main]]
         identifier = "about"
         name = "About"
         pageRef = "/about"
         weight = 10
-
     [[menu.main]]
-        identifier = "videos"
-        name = "Videos"
-        pageRef = "/videos"
-        weight = 10
+        name = "Tags"
+        url = "/tags"
+        weight = 4
+
+
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/severiano-sisneros"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/SeveSisneros"
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:seve.sisneros@protonmail.com"
