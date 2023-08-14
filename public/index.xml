@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Severiano Sisneros</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on Severiano Sisneros</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://example.org/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>/about/</guid>
       <description>I am currently a cryptographer at Semiotic Labs primarily working as a core dev. on The Graph protocol and am very excited about the new interactions unlocked by web3. I am interested in all things cryptography, from theory to practice: zkSNARKs, fhe, mpc, pqc, &amp;hellip; side-channel attacks. I can do some math (but don&amp;rsquo;t consider myself a mathematician) and can do some coding and can play around with hardware.
 Before helping to build web3, I was a senior prinicipal anti-tamper systems engineer at Northrop Grumman Corp.</description>
     </item>
