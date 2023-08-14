@@ -1,4 +1,4 @@
-baseURL = "https://severiano-sisneros.github.io/website"
+baseURL = "https://severiano-sisneros.github.io/"
 relativeURLs = true
 languageCode = 'en-us'
 title = "Severiano Sisneros' Blog"
