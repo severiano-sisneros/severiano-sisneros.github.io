@@ -1,5 +1,5 @@
-baseURL = "/"
-relativeURLs = false
+baseURL = "https://severiano-sisneros.github.io/website"
+relativeURLs = true
 languageCode = 'en-us'
 title = "Severiano Sisneros' Blog"
 theme = 'archie'
