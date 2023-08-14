@@ -10,4 +10,4 @@ I am currently a cryptographer at [Semiotic Labs](https://semiotic.ai) primarily
 
 Before helping to build web3, I was a senior prinicipal anti-tamper systems engineer at Northrop Grumman Corp., where I built resilient systems that can defend IP from the many attacks that can be launched from as close as a lab bench. Before that I was a cyber security researcher at Sandia National Labs, where I learned how to launch and defend against many attacks that can be performed from as close as a lab bench (and from further away). I have a MSEE from the University of Illinois at Urbana-Champaign (2012), where I studied some cryptography, and a BSEE w/ Supplementary Math Major from New Mexico State University (2009).
 
-For those interested, [here](/pubkey.gpg) is my GPG Public Key.
+For those interested, [here](/keys/pubkey.gpg) is my GPG Public Key.
