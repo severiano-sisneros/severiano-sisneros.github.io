@@ -10,5 +10,5 @@ paginate = 3
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    pageRef = "/about"
     weight = 10
