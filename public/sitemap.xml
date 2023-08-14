@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>website/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-08-13T19:57:58-07:00</lastmod>
   </url><url>
-    <loc>website/</loc>
+    <loc>/</loc>
     <lastmod>2023-08-13T19:57:58-07:00</lastmod>
   </url><url>
-    <loc>website/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-08-13T19:57:58-07:00</lastmod>
   </url><url>
-    <loc>website/tags/video/</loc>
+    <loc>/tags/video/</loc>
     <lastmod>2023-08-13T19:57:58-07:00</lastmod>
   </url><url>
-    <loc>website/posts/videos/zkops-the-future-of-zero-knowledge-deployment-tools-panel-by-aaron-greenblatt/</loc>
+    <loc>/posts/videos/zkops-the-future-of-zero-knowledge-deployment-tools-panel-by-aaron-greenblatt/</loc>
     <lastmod>2023-08-13T19:57:58-07:00</lastmod>
   </url><url>
-    <loc>website/posts/videos/devcon-vi-a-snarks-tale/</loc>
+    <loc>/posts/videos/devcon-vi-a-snarks-tale/</loc>
     <lastmod>2023-08-13T19:45:46-07:00</lastmod>
   </url><url>
-    <loc>website/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>website/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
