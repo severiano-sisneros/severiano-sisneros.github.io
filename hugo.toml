@@ -1,4 +1,4 @@
-baseURL = "https://severiano-sisneros.github.io/website"
+baseURL = "localhost:1313"
 relativeURLs = true
 languageCode = 'en-us'
 title = "Severiano Sisneros' Blog"
@@ -9,14 +9,24 @@ enableEmoji = true
 
 [menu]
     [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "All posts"
+        url = "/posts"
+        weight = 2
+
+    [[menu.main]]
         identifier = "about"
         name = "About"
         pageRef = "/about"
-        weight = 10
+        weight = 4
     [[menu.main]]
         name = "Tags"
         url = "/tags"
-        weight = 4
+        weight = 3
 
 
 
