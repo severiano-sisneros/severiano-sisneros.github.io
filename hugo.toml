@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://severiano-sisneros.github.io"
 relativeURLs = true
 languageCode = 'en-us'
 title = "Severiano Sisneros | severiano.eth"
