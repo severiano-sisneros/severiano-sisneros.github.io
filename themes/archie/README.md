@@ -74,7 +74,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourDisqusShortname"
+disqusShortname = "severianosisneros"
 
 paginate=3 # articles per page
 

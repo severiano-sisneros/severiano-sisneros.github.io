@@ -6,7 +6,7 @@ theme = 'archie'
 paginate = 3
 enableEmoji = true
 # Your Disqus sortname.
-disqusShortname = "localhost"
+disqusShortname = "severianosisneros"
 
 # Content types which are excludes Disqus comments.
 disableDisqusTypes = ["page"]
