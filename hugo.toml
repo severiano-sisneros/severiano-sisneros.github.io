@@ -5,6 +5,11 @@ title = "Severiano Sisneros | severiano.eth"
 theme = 'archie'
 paginate = 3
 enableEmoji = true
+# Your Disqus sortname.
+disqusShortname = "localhost"
+
+# Content types which are excludes Disqus comments.
+disableDisqusTypes = ["page"]
 
 # Code Highlight
 pygmentsstyle = "monokai"
@@ -16,6 +21,7 @@ pygmentscodefencesguesssyntax = true
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
     mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
+    favicon = "fav.ico"
 
 
 [menu]

@@ -1,7 +1,7 @@
 ---
 title: "ZkOps: The Future of Zero Knowledge Deployment Tools Panel by Aaron Greenblatt"
 date: 2023-08-13T19:57:58-07:00
-tags: [Video]
+tags: [Video, Cryptography]
 draft: false
 ---
 This was a panel I participated in at ETHDenver 2023, chaired by Aaron Greenblatt of [Ironmill](https://www.ironmill.xyz/).

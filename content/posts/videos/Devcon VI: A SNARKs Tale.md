@@ -1,7 +1,7 @@
 ---
 title: "Devcon VI: A SNARKs Tale"
 date: 2023-08-13T19:45:46-07:00
-tags: [Video]
+tags: [Video, Cryptography]
 draft: false
 ---
 This talk was a high level, light on technical detail, description of some our research into various SNARK constructions while designing and building a high-throughput one-way payment channel solution to enable query payments for indexers in The Graph protocol. We looked at several cutting edge SNARKs and also Homomorphic Signatures. In the end, all the verification for all these methods where too high to justify, we ended up engineering a much simpler (cryptographically) system using only standard ECC. The solution is called [TAP](https://github.com/semiotic-ai/timeline-aggregation-protocol) and is currently being integrated into The Graph.

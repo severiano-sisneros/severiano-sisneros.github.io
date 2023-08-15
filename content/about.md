@@ -4,6 +4,7 @@ description = "An introduction."
 date = "13 Aug. 2023"
 aliases = ["about-me", "contact"]
 author = "Severiano Sisneros"
+disqus = false
 +++
 
 I am currently a cryptographer at [Semiotic Labs](https://semiotic.ai) primarily working as a core dev. on [The Graph](https://thegraph.com) protocol and am very excited about the new interactions unlocked by web3. I am interested in all things cryptography, from theory to practice: zkSNARKs, fhe, mpc, pqc, ... side-channel attacks. I can do some math (but don't consider myself a mathematician) and can do some coding and can play around with hardware. 
