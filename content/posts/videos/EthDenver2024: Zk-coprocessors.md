@@ -2,7 +2,7 @@
 title: "EthDenver2024: Zk-Coprocessors: State of the Art and Future Directions"
 date: 2024-03-06T12:39:14-08:00
 tags: [Video, Cryptography]
-draft: true
+draft: false
 ---
 
 This is a high-level talk about zk-coprocessors, and more generally blockchain coprocessors. I describe what they are, what they can prove, who is building them, some trade-offs, and how they fit with The Graph protocol.
