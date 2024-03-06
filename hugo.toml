@@ -65,3 +65,6 @@ url = "https://twitter.com/SeveSisneros"
 name = "Email"
 icon = "mail"
 url = "mailto:seve.sisneros@protonmail.com"
+
+[markup.goldmark.renderer]
+unsafe= true
