@@ -1,7 +1,7 @@
 baseURL = "https://severiano-sisneros.github.io"
 relativeURLs = true
 languageCode = 'en-us'
-title = "Severiano Sisneros | severiano.eth"
+title = "Severiano Kard Sisneros IV"
 theme = 'archie'
 paginate = 3
 enableEmoji = true
